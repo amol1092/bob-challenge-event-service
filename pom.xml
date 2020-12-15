@@ -58,6 +58,11 @@
             <artifactId>hibernate-types-52</artifactId>
             <version>2.9.13</version>
         </dependency>
+        <dependency>
+    		<groupId>org.springdoc</groupId>
+    		<artifactId>springdoc-openapi-ui</artifactId>
+    		<version>1.2.32</version>
+		</dependency>
     </dependencies>
 
     <build>
